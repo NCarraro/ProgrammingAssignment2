@@ -1,5 +1,5 @@
 ## First create a matrix to be inverted (for example mat<-matrix(c(5,6,7,8))
-## Run by feeding variable of stored result from the first into the second:
+## Run by feeding variable of stored result from the first into the second function:
 ## eg out<-makeCacheMatrix(d) 
 ## cacheSolve(out)
 ## This function creates a matrix object that can cache its inverse.
